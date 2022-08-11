@@ -6,7 +6,9 @@
     body{
       background-color: #FFEDD5;
       font-family: 'Roboto', sans-serif;
-  
+      background-image: url(https://s0.smartresize.com/wallpaper/521/406/HD-wallpaper-girl-with-coffee-cup-coffee-girl-anime-spirited-away.jpg) ;
+       background-size: cover;
+       background-position: right;
     }
     ul{
       list-style: none;
